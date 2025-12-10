@@ -1,4 +1,4 @@
--- This code is for Remark 3.3 in the paper 'Border rank of the $4 \times 4$ determinant tensor is twelve'
+-- This code is for Remark 3.3 in the paper 'The border rank of the $4 \times 4$ determinant tensor is twelve'
 -- by Jong In Han, Jeong-Hoon Ju, Yeongrak Kim.
 
 needsPackage "PieriMaps";
