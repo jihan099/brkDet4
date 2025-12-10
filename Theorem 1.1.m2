@@ -1,5 +1,5 @@
 -- The purpose of this code is to prove the border rank of the determinant tensor of order 4 is 12.
--- For details, see the preprint 'Border rank of the $4 \times 4$ determinant tensor is twelve'
+-- For details, see the preprint 'The border rank of the $4 \times 4$ determinant tensor is twelve'
 -- by Jong In Han, Jeong-Hoon Ju, Yeongrak Kim.
 
 kk = QQ;
