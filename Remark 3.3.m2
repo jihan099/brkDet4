@@ -325,7 +325,7 @@ for candidateF222 in survivor232test do (
 print(#survivor223test);
 
 -- Get the vanishing locus of each F222.
-needsPackage "MultiProjectiveVarieties";
+needsPackage "MultiprojectiveVarieties";
 L={}
 for i in survivor223test do(
     I=ideal(i);
